@@ -453,6 +453,16 @@ criar fluxo de importação
 criar fluxo de atualização global
 criar fluxo de atualização de status local
 
+Manual Trigger
+Supabase - Buscar Cliente
+Google Sheets - Ler Linhas
+IF - Linha válida
+Split In Batches
+HTTP Request - RPC importar_contato_cliente
+Set - Preparar IDs
+Google Sheets - Atualizar Linha
+Supabase - Validar resultado (opcional, para debug)
+
 Fase 3
 adicionar logs
 adicionar deduplicação melhor
